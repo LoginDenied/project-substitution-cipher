@@ -1,7 +1,3 @@
-// Simplesubstituitioncipherencoder.cpp : Defines the entry point for the console application.
-//
-
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 #include <array>
@@ -70,5 +66,6 @@ int main()
 	cout << "String has been encoded:" << endl;
 	cout << output << endl;
 	cout << "-PROGRAM END-" << endl;
-    return 0;
+    
+	return 0;
 }
